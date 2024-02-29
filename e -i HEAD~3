@@ -1,0 +1,66 @@
+[33mcommit e89566f3cb9262909d8fa293bf8d872abca2404b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a1c69f2 b6cb0c4
+Author: Robson Monteiro <robsonhobbye@gmail.com>
+Date:   Thu Feb 29 11:29:48 2024 -0300
+
+    Merge branch 'master' of https://github.com/newhobbye/azure-portal-integration-sdk
+
+[33mcommit a1c69f2213d06ce99a5594f738f1255592a0c58b[m[33m ([m[1;31mgithub/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Robson Monteiro <robsonhobbye@gmail.com>
+Date:   Thu Feb 29 11:15:19 2024 -0300
+
+    Algumas alterações.
+
+[33mcommit b6cb0c473839ebd7522b6231a12779657d15f197[m[33m ([m[1;31mgithub/master[m[33m)[m
+Author: Robson Monteiro <88908479+newhobbye@users.noreply.github.com>
+Date:   Thu Feb 29 11:14:29 2024 -0300
+
+    Initial commit
+
+[33mcommit 3c4005254e4f442a1d47b88844ea4f8d410711b7[m
+Author: Robson Monteiro <robsonhobbye@gmail.com>
+Date:   Thu Dec 7 10:04:06 2023 -0300
+
+    ?
+
+[33mcommit 59278e9f7ffafc132cddb024696b79425764cd7a[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Sat Sep 9 09:45:30 2023 -0300
+
+    Tested
+
+[33mcommit 505fc4dbcd64f65c1aaa7a46515fd154d049a34c[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Fri Sep 8 10:28:36 2023 -0300
+
+    Certificate tested
+
+[33mcommit 6d0f76652cc09a492e28245960afa7ae55e228a9[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Wed Sep 6 10:09:59 2023 -0300
+
+    Auth tested
+
+[33mcommit c48495790350a0d813bc17bf8d6766ef39e4972f[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Wed Sep 6 09:24:06 2023 -0300
+
+    Certificates and dependency container implemented
+
+[33mcommit 507fcc8b51e0a5a60576f609569ba964883eae04[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Tue Sep 5 14:01:42 2023 -0300
+
+    Subdomain implemented
+
+[33mcommit dedc7aed1db86dcb7785e21a932ef2cc989b6b20[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Tue Sep 5 09:05:26 2023 -0300
+
+    Adicionar arquivos de projeto.
+
+[33mcommit df3882c31e2076ad1db3bc3449bb8cc088c8e654[m
+Author: Robson Monteiro <rmonteiro@brasilcash.com.br>
+Date:   Tue Sep 5 09:05:24 2023 -0300
+
+    Adicione .gitattributes e .gitignore.
